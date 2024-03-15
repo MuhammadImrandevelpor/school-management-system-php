@@ -1,2 +1,2 @@
 # school-management-system-php
-School Management System PHP &amp; MYSQL
+School Management System PHP &amp; MYSQL &amp; JS
